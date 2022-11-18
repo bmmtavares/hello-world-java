@@ -10,10 +10,12 @@ public class OlaMundo {
 
 		System.out.println("Digitado: " + getNroTeclado());
 		System.out.println("Nome informado: " + getNome());
-		
-		//Usando git para versionamento do codigo-fonte
-		
+
+		// Usando git para versionamento do codigo-fonte
+
 		System.out.println("This line is here to show how merging works");
+
+		System.out.println("Testando git...branch hello-world-images");
 
 	}
 
