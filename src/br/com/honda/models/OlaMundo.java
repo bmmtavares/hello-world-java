@@ -13,7 +13,7 @@ public class OlaMundo {
 		
 		//Usando git para versionamento do codigo-fonte
 		
-		System.out.println("Testando git...");
+		System.out.println("Testando git...branch hello-world-images");
 
 	}
 
