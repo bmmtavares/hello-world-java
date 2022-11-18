@@ -12,6 +12,8 @@ public class OlaMundo {
 		System.out.println("Nome informado: " + getNome());
 		
 		//Usando git para versionamento do codigo-fonte
+		
+		System.out.println("This line is here to show how merging works");
 
 	}
 
