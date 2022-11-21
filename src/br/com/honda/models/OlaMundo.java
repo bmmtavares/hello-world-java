@@ -18,6 +18,8 @@ public class OlaMundo {
 		System.out.println("Testando git...branch hello-world-images");
 		
 		System.out.println("Alteracao local, precisa subir");
+		
+		//java-skeleton
 
 	}
 
